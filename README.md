@@ -1,5 +1,3 @@
-hallo
-
 # Haiku opdracht
 
 Bij deze opdracht gaan jij een een klasgenoot (of klasgenoten) samen aan code werken
@@ -50,7 +48,7 @@ function Haiku1(){
 ```
 
 ## haiku's voorbeelden:
-
+## verandering
 The wren
 Earns his living
 Noiselessly.
