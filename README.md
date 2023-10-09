@@ -1,3 +1,5 @@
+hallo
+
 # Haiku opdracht
 
 Bij deze opdracht gaan jij een een klasgenoot (of klasgenoten) samen aan code werken
