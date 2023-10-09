@@ -6,15 +6,15 @@ function HaikuX1(){
 }
 function HaikuX2(){
     console.log("haiku by:","AUTHOR");
-    console.log("REGEL1");
-    console.log("REGEL2");
-    console.log("REGEL3");
+    console.log("Consider me As one who loved poetry And persimmons.");
+    console.log("In the cicada's cry No sign can foretell How soon it must die.");
+    console.log("Blowing from the west Fallen leaves gather In the east.");
 }
 function HaikuX3(){
     console.log("haiku by:","AUTHOR");
-    console.log("REGEL1");
-    console.log("REGEL2");
-    console.log("REGEL3");
+    console.log("Winter seclusion - Listening, that evening, To the rain in the mountain.");
+    console.log("Don’t weep, insects – Lovers, stars themselves, Must part.");
+    console.log("My life, - How much more of it remains? The night is brief.");
 }
 HaikuX1()
 HaikuX2()
