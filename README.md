@@ -46,9 +46,9 @@ function Haiku1(){
     console.log("Perfect breakfast time");
 }
 ```
-dfg
+
 ## haiku's voorbeelden:
-## verandering  dsffgfd
+## verandering
 The wren
 Earns his living
 Noiselessly.
