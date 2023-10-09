@@ -16,6 +16,14 @@ function HaikuX3(){
     console.log("Don’t weep, insects – Lovers, stars themselves, Must part.");
     console.log("My life, - How much more of it remains? The night is brief.");
 }
+
+function HaikuX4(){
+    console.log("haiku by:","Yosa Buson");
+    console.log("Winter seclusion - Listening, that evening, To the rain in the mountain.");
+    console.log("Don’t weep, insects – Lovers, stars themselves, Must part.");
+    console.log("My life, - How much more of it remains? The night is brief.");
+}
 HaikuX1()
 HaikuX2()
 HaikuX3()
+HaikuX4()
